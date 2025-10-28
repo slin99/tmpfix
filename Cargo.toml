@@ -1,6 +1,6 @@
 [package]
-name = "google-drive3"
-version = "0.1.0"
+name = "serde_json"
+version = "3.9.1"
 edition = "2021"
 
 [dependencies]
