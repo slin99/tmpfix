@@ -1,6 +1,6 @@
 [package]
 name = "serde_json"
-version = "3.9.1"
+version = "1.0.89"
 edition = "2021"
 
 [dependencies]
